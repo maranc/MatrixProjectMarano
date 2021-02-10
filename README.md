@@ -1,13 +1,4 @@
 # Parallel Computing Lab
-
-## Team Members 
-
--**Marano**(testing ,helped with coding,helped with graphs)
-
--**Zhao**(Wrote the code and algotrithms ,worked on producing graphs ,testing,wrote code for SIMD parallelization on java as well)
-
--**Hoxha**(Readme.md file ,helped with coding in a the first tasks,worked on producing graphs)
-
 ## Project Board
 https://trello.com/b/lAjpyFbi/lab6
 
